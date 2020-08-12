@@ -1,1 +1,2 @@
-# DSA-codes
+# Data Structures and Algorithms
+# Assignments
